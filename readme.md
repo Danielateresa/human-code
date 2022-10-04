@@ -41,3 +41,8 @@ Scansione documento su più fogli fronte/retro
             - Ripongo il foglio
             - Chiudo la pratica 
             - Archivio la cartella con i file salvati
+            - Spengo il computer
+            - Spengo lo scanner
+            - Mi alzo
+            - Mi dirigo all'archivio fisico dell'ufficio
+            - Ripongo la pratica cartacea al suo posto
